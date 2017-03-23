@@ -1,0 +1,9 @@
+127.0.0.1 - - [23/Mar/2017:11:14:38 -0300] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [23/Mar/2017:11:14:41 -0300] "GET /12-WebserviceRestfull-server-banco/ HTTP/1.1" 404 1070
+127.0.0.1 - - [23/Mar/2017:11:16:13 -0300] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [23/Mar/2017:11:16:14 -0300] "GET /05-EstoqueWS/ HTTP/1.1" 200 3440
+0:0:0:0:0:0:0:1 - - [23/Mar/2017:11:16:14 -0300] "GET /05-EstoqueWS/axis2-web/css/axis-style.css HTTP/1.1" 200 1587
+0:0:0:0:0:0:0:1 - - [23/Mar/2017:11:16:14 -0300] "GET /05-EstoqueWS/axis2-web/images/asf-logo.gif HTTP/1.1" 200 5866
+0:0:0:0:0:0:0:1 - - [23/Mar/2017:11:16:14 -0300] "GET /05-EstoqueWS/axis2-web/images/axis_l.jpg HTTP/1.1" 200 12340
+127.0.0.1 - - [23/Mar/2017:11:17:21 -0300] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [23/Mar/2017:11:17:21 -0300] "GET /11-WebserviceRestfull-server/ HTTP/1.1" 404 1058

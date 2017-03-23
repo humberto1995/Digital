@@ -1,0 +1,26 @@
+
+INFO     Validating project: 04-WebserviceSOAP-provider
+INFO     Finished validating project: 04-WebserviceSOAP-provider
+
+INFO     Validating project: 05-EstoqueWS
+INFO     Finished validating project: 05-EstoqueWS
+
+INFO     Validating project: 06-WebserviceSOAP-requester
+INFO     Finished validating project: 06-WebserviceSOAP-requester
+
+INFO     Validating project: 07-Loja-Central-App
+INFO     Finished validating project: 07-Loja-Central-App
+
+INFO     Validating project: 08-WebserviceSOAP-provider-banco
+INFO     Finished validating project: 08-WebserviceSOAP-provider-banco
+
+INFO     Validating project: 09-WebserviceSOAP-requester-banco
+INFO     Finished validating project: 09-WebserviceSOAP-requester-banco
+
+INFO     Validating project: 11-WebserviceRestfull-server
+INFO     Finished validating project: 11-WebserviceRestfull-server
+
+INFO     Validating project: 12-WebserviceRestfull-server-banco
+INFO     Finished validating project: 12-WebserviceRestfull-server-banco
+
+Migration complete

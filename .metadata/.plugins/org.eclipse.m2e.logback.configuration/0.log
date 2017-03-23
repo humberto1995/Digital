@@ -1,0 +1,87 @@
+2017-03-23 11:07:07,492 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @25813ms
+2017-03-23 11:07:08,820 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-03-23 11:07:10,121 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@60691331{/help,null,AVAILABLE}
+2017-03-23 11:07:10,281 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7ad986d9{HTTP/1.1,[http/1.1]}{127.0.0.1:4509}
+2017-03-23 11:07:10,286 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @28615ms
+2017-03-23 11:08:20,152 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7ad986d9{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-23 11:08:20,171 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@60691331{/help,null,UNAVAILABLE}
+2017-03-23 11:08:38,484 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @15962ms
+2017-03-23 11:08:38,634 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-03-23 11:08:38,695 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@67598bc6{/help,null,AVAILABLE}
+2017-03-23 11:08:38,740 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2c57499f{HTTP/1.1,[http/1.1]}{127.0.0.1:4556}
+2017-03-23 11:08:38,741 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @16221ms
+2017-03-23 11:11:10,669 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: 11-WebserviceRestfull-server:11-WebserviceRestfull-server:0.0.1-SNAPSHOT @ D:\DIGITAL\11-WebserviceRestfull-server\pom.xml.
+2017-03-23 11:11:12,173 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2017-03-23 11:11:13,155 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2017-03-23 11:11:16,038 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:16,040 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\main\resources
+2017-03-23 11:11:16,042 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:16,043 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\test\resources
+2017-03-23 11:11:17,409 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 11-WebserviceRestfull-server
+2017-03-23 11:11:17,605 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: 12-WebserviceRestfull-server-banco:12-WebserviceRestfull-server-banco:0.0.1-SNAPSHOT @ D:\DIGITAL\12-WebserviceRestfull-server-banco\pom.xml.
+2017-03-23 11:11:18,979 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 12-WebserviceRestfull-server-banco
+2017-03-23 11:11:22,478 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:22,480 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\main\resources
+2017-03-23 11:11:22,481 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:22,482 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\test\resources
+2017-03-23 11:11:22,483 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 11-WebserviceRestfull-server
+2017-03-23 11:11:22,485 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 11-WebserviceRestfull-server
+2017-03-23 11:11:22,494 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2017-03-23 11:11:22,511 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:23,542 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:23,543 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\main\resources
+2017-03-23 11:11:23,545 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:11:23,545 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\test\resources
+2017-03-23 11:11:23,546 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 12-WebserviceRestfull-server-banco
+2017-03-23 11:11:23,546 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 12-WebserviceRestfull-server-banco
+2017-03-23 11:11:23,550 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:13:13,167 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 11-WebserviceRestfull-server
+2017-03-23 11:13:13,190 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 12-WebserviceRestfull-server-banco
+2017-03-23 11:13:14,803 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:13:14,804 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\main\resources
+2017-03-23 11:13:14,805 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:13:14,806 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\test\resources
+2017-03-23 11:13:14,807 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 11-WebserviceRestfull-server
+2017-03-23 11:13:14,807 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 11-WebserviceRestfull-server
+2017-03-23 11:13:14,812 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:13:15,615 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:13:15,615 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\main\resources
+2017-03-23 11:13:15,617 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:13:15,617 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\test\resources
+2017-03-23 11:13:15,620 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 12-WebserviceRestfull-server-banco
+2017-03-23 11:13:15,620 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 12-WebserviceRestfull-server-banco
+2017-03-23 11:13:15,625 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:21,746 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 11-WebserviceRestfull-server
+2017-03-23 11:17:21,774 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 12-WebserviceRestfull-server-banco
+2017-03-23 11:17:23,886 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:23,886 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\main\resources
+2017-03-23 11:17:23,891 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:23,892 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\test\resources
+2017-03-23 11:17:23,893 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 11-WebserviceRestfull-server
+2017-03-23 11:17:23,893 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 11-WebserviceRestfull-server
+2017-03-23 11:17:23,904 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:24,100 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:24,101 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\main\resources
+2017-03-23 11:17:24,102 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:24,103 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\test\resources
+2017-03-23 11:17:24,103 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 12-WebserviceRestfull-server-banco
+2017-03-23 11:17:24,104 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 12-WebserviceRestfull-server-banco
+2017-03-23 11:17:24,109 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:39,390 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 11-WebserviceRestfull-server
+2017-03-23 11:17:39,410 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for 12-WebserviceRestfull-server-banco
+2017-03-23 11:17:40,713 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:40,714 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\main\resources
+2017-03-23 11:17:40,715 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:40,716 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\11-WebserviceRestfull-server\src\test\resources
+2017-03-23 11:17:40,716 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 11-WebserviceRestfull-server
+2017-03-23 11:17:40,716 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 11-WebserviceRestfull-server
+2017-03-23 11:17:40,720 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:40,926 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:40,927 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\main\resources
+2017-03-23 11:17:40,929 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:17:40,929 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DIGITAL\12-WebserviceRestfull-server-banco\src\test\resources
+2017-03-23 11:17:40,929 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 12-WebserviceRestfull-server-banco
+2017-03-23 11:17:40,930 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 12-WebserviceRestfull-server-banco
+2017-03-23 11:17:40,950 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-23 11:18:15,281 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2c57499f{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-23 11:18:15,296 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@67598bc6{/help,null,UNAVAILABLE}

@@ -1,0 +1,9 @@
+2017-02-14 11:12:52 INFO  TerminalConsulta:23 - Início da aplicação
+2017-02-14 11:17:00 INFO  TerminalConsulta:23 - Início da aplicação
+2017-02-14 11:17:02 DEBUG TerminalConsulta:53 - Produto não encontrado: 1321312
+2017-02-14 11:17:07 INFO  TerminalConsulta:23 - Início da aplicação
+2017-02-14 11:17:08 ERROR TerminalConsulta:57 - Valor digitado inválido
+2017-02-14 11:20:15 INFO  TerminalConsulta:23 - Início da aplicação
+2017-02-14 11:20:18 DEBUG TerminalConsulta:45 - Produto encontrado: 401
+2017-02-14 11:21:18 INFO  TerminalConsulta:23 - Início da aplicação
+2017-02-14 11:21:21 DEBUG TerminalConsulta:45 - Produto encontrado: 401

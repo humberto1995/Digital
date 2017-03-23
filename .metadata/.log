@@ -1,0 +1,416 @@
+!SESSION 2017-03-23 11:06:41.834 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\DIGITAL -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-23 11:06:54.729
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\logonrm'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-03-23 11:07:03.183
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.etools.javaee.core.
+
+!ENTRY org.jboss.tools.central 4 0 2017-03-23 11:08:10.745
+!MESSAGE Unable to open C:\opensource\eclipse-neon\plugins\org.jboss.tools.central_2.1.1.v20160808-1619\resources\jbosstools-central-webpage.zip
+!STACK 0
+java.io.IOException: D:\DIGITAL\.metadata\.plugins\org.jboss.tools.central\central\dff8cd5\index.html can not be found
+	at org.jboss.tools.central.internal.CentralHelper.extractIfNeeded(CentralHelper.java:203)
+	at org.jboss.tools.central.internal.CentralHelper.getCentralPageUrl(CentralHelper.java:122)
+	at org.jboss.tools.central.internal.CentralHelper.getCentralUrl(CentralHelper.java:60)
+	at org.jboss.tools.central.editors.GettingStartedHtmlPage$5.run(GettingStartedHtmlPage.java:252)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.ui.ide 4 4 2017-03-23 11:08:19.924
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2017-03-23 11:08:19.924
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-03-23 11:08:19.924
+!MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-23 11:08:21.350
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2017-03-23 11:08:22.661 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data D:\DIGITAL -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-23 11:08:24.599
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-23 11:08:31.491
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\logonrm'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-03-23 11:08:35.968
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.etools.javaee.core.
+
+!ENTRY org.jboss.tools.central 4 0 2017-03-23 11:08:41.746
+!MESSAGE Current Eclipse instance does not support software installation.
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Current Eclipse instance does not support software installation.
+	at org.jboss.tools.central.installation.InstallationChecker.<init>(InstallationChecker.java:76)
+	at org.jboss.tools.central.installation.InstallationChecker.getInstance(InstallationChecker.java:84)
+	at org.jboss.tools.central.editors.GettingStartedHtmlPage$6.run(GettingStartedHtmlPage.java:327)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.equinox.p2.core 4 0 2017-03-23 11:08:41.749
+!MESSAGE Current Eclipse instance does not support software installation.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-03-23 11:09:29.822
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.cftools.branding.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-03-23 11:09:29.823
+!MESSAGE Project facet com.ibm.etools.javaee.cdi has not been defined. It is used in plugin com.ibm.ws.st.jee.core.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:16.038
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:16.042
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:22.479
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:22.482
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:22.497
+!MESSAGE The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:22.512
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:23.542
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:23.545
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:11:23.551
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:13:14.804
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:13:14.806
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:13:14.812
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:13:15.615
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:13:15.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:13:15.625
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-03-23 11:13:49.900
+!MESSAGE already installed: com.ibm.ws.st.server.wlp
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-03-23 11:13:49.901
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.datatools.connectivity 4 10001 2017-03-23 11:14:13.852
+!MESSAGE D:\DIGITAL\.metadata\.plugins\org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb\db\META-INF\MANIFEST.MF (The system cannot find the path specified)
+!STACK 1
+org.eclipse.core.runtime.CoreException: D:\DIGITAL\.metadata\.plugins\org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb\db\META-INF\MANIFEST.MF (The system cannot find the path specified)
+	at org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb.internal.impl.SampleDbFactory.setInitializationData(SampleDbFactory.java:104)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:251)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.initializeLocalDatabase(InternalProfileManager.java:1380)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.loadLocalRegisteredDatabases(InternalProfileManager.java:1360)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.loadProfiles(InternalProfileManager.java:1070)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.getProfiles(InternalProfileManager.java:150)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.getProfileByName(InternalProfileManager.java:239)
+	at org.eclipse.datatools.connectivity.ProfileManager.getProfileByName(ProfileManager.java:98)
+	at org.jboss.tools.as.runtimes.integration.internal.DriverUtility.createDriver2(DriverUtility.java:89)
+	at org.jboss.tools.as.runtimes.integration.internal.DriverUtility.createDriver(DriverUtility.java:83)
+	at org.jboss.tools.as.runtimes.integration.internal.DriverRuntimeLifecycleListener.runtimeAdded(DriverRuntimeLifecycleListener.java:29)
+	at org.eclipse.wst.server.core.internal.ResourceManager.fireRuntimeEvent(ResourceManager.java:523)
+	at org.eclipse.wst.server.core.internal.ResourceManager.registerRuntime(ResourceManager.java:1204)
+	at org.eclipse.wst.server.core.internal.ResourceManager.addRuntime(ResourceManager.java:684)
+	at org.eclipse.wst.server.core.internal.Runtime.saveToMetadata(Runtime.java:131)
+	at org.eclipse.wst.server.core.internal.RuntimeWorkingCopy.save(RuntimeWorkingCopy.java:181)
+	at org.eclipse.wst.server.ui.internal.wizard.WizardTaskUtil.tempSaveRuntime(WizardTaskUtil.java:124)
+	at org.eclipse.wst.server.ui.internal.wizard.WizardTaskUtil$3.performFinish(WizardTaskUtil.java:57)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.executeTask(TaskWizard.java:268)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard$2.run(TaskWizard.java:215)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2262)
+	at org.eclipse.wst.server.ui.internal.wizard.page.WorkspaceRunnableAdapter.run(WorkspaceRunnableAdapter.java:35)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+Caused by: java.io.FileNotFoundException: D:\DIGITAL\.metadata\.plugins\org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb\db\META-INF\MANIFEST.MF (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb.internal.impl.SampleDbFactory.initSampleDb(SampleDbFactory.java:187)
+	at org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb.internal.impl.SampleDbFactory.setInitializationData(SampleDbFactory.java:88)
+	... 24 more
+!SUBENTRY 1 org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb 4 0 2017-03-23 11:14:13.852
+!MESSAGE D:\DIGITAL\.metadata\.plugins\org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb\db\META-INF\MANIFEST.MF (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: D:\DIGITAL\.metadata\.plugins\org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb\db\META-INF\MANIFEST.MF (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb.internal.impl.SampleDbFactory.initSampleDb(SampleDbFactory.java:187)
+	at org.eclipse.birt.report.data.oda.jdbc.dbprofile.sampledb.internal.impl.SampleDbFactory.setInitializationData(SampleDbFactory.java:88)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:251)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.initializeLocalDatabase(InternalProfileManager.java:1380)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.loadLocalRegisteredDatabases(InternalProfileManager.java:1360)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.loadProfiles(InternalProfileManager.java:1070)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.getProfiles(InternalProfileManager.java:150)
+	at org.eclipse.datatools.connectivity.internal.InternalProfileManager.getProfileByName(InternalProfileManager.java:239)
+	at org.eclipse.datatools.connectivity.ProfileManager.getProfileByName(ProfileManager.java:98)
+	at org.jboss.tools.as.runtimes.integration.internal.DriverUtility.createDriver2(DriverUtility.java:89)
+	at org.jboss.tools.as.runtimes.integration.internal.DriverUtility.createDriver(DriverUtility.java:83)
+	at org.jboss.tools.as.runtimes.integration.internal.DriverRuntimeLifecycleListener.runtimeAdded(DriverRuntimeLifecycleListener.java:29)
+	at org.eclipse.wst.server.core.internal.ResourceManager.fireRuntimeEvent(ResourceManager.java:523)
+	at org.eclipse.wst.server.core.internal.ResourceManager.registerRuntime(ResourceManager.java:1204)
+	at org.eclipse.wst.server.core.internal.ResourceManager.addRuntime(ResourceManager.java:684)
+	at org.eclipse.wst.server.core.internal.Runtime.saveToMetadata(Runtime.java:131)
+	at org.eclipse.wst.server.core.internal.RuntimeWorkingCopy.save(RuntimeWorkingCopy.java:181)
+	at org.eclipse.wst.server.ui.internal.wizard.WizardTaskUtil.tempSaveRuntime(WizardTaskUtil.java:124)
+	at org.eclipse.wst.server.ui.internal.wizard.WizardTaskUtil$3.performFinish(WizardTaskUtil.java:57)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard.executeTask(TaskWizard.java:268)
+	at org.eclipse.wst.server.ui.internal.wizard.TaskWizard$2.run(TaskWizard.java:215)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2262)
+	at org.eclipse.wst.server.ui.internal.wizard.page.WorkspaceRunnableAdapter.run(WorkspaceRunnableAdapter.java:35)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\activation-1.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\antlr-2.7.7.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axiom-api-1.2.13.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axiom-dom-1.2.13.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axiom-impl-1.2.13.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-adb-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-adb-codegen-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-ant-plugin-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-clustering-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-codegen-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.606
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-corba-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-fastinfoset-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-java2wsdl-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-jaxbri-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-jaxws-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-jibx-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-json-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-kernel-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-metadata-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-mtompolicy-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-saaj-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-soapmonitor-servlet-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-spring-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-transport-http-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-transport-local-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-xmlbeans-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-cli-1.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-codec-1.3.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-fileupload-1.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-httpclient-3.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-io-1.4.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-logging-1.1.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\geronimo-stax-api_1.0_spec-1.0.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\httpcore-4.0.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\log4j-1.2.15.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\mail-1.4.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\neethi-3.0.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\woden-api-1.0M9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\woden-impl-commons-1.0M9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\woden-impl-dom-1.0M9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\wsdl4j-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\wstx-asl-3.2.9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\xmlbeans-2.3.0.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.609
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\XmlSchema-1.4.7.jar. May be locked by another process.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\activation-1.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\antlr-2.7.7.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axiom-api-1.2.13.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axiom-dom-1.2.13.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axiom-impl-1.2.13.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-adb-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.636
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-adb-codegen-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-ant-plugin-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-clustering-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-codegen-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-corba-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-fastinfoset-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-java2wsdl-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-jaxbri-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-jaxws-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-jibx-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-json-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-kernel-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-metadata-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-mtompolicy-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-saaj-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-soapmonitor-servlet-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-spring-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-transport-http-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-transport-local-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\axis2-xmlbeans-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-cli-1.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-codec-1.3.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-fileupload-1.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-httpclient-3.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-io-1.4.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\commons-logging-1.1.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\geronimo-stax-api_1.0_spec-1.0.1.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\httpcore-4.0.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\log4j-1.2.15.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\mail-1.4.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\neethi-3.0.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\woden-api-1.0M9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\woden-impl-commons-1.0M9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\woden-impl-dom-1.0M9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\wsdl4j-1.6.2.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\wstx-asl-3.2.9.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\xmlbeans-2.3.0.jar. May be locked by another process.
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-03-23 11:17:13.637
+!MESSAGE Could not delete D:\DIGITAL\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\05-EstoqueWS\WEB-INF\lib\XmlSchema-1.4.7.jar. May be locked by another process.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:23.886
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:23.892
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:23.905
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:24.101
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:24.103
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:24.110
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:40.713
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:40.715
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:40.720
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:40.927
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:40.929
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-23 11:17:40.950
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
